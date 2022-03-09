@@ -1,0 +1,23 @@
+{
+  "name": "proj7_weatherforecast",
+  "version": "1.0.0",
+  "description": "This is a sever that can provide weather forecast",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANUSHKALA/Proj7_WeatherForecast.git"
+  },
+  "author": "anushka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANUSHKALA/Proj7_WeatherForecast/issues"
+  },
+  "homepage": "https://github.com/ANUSHKALA/Proj7_WeatherForecast#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
